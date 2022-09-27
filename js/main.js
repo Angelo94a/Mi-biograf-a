@@ -8,7 +8,7 @@ sr.reveal('#article', {
 
 sr.reveal('#section', {
 	duration: 3000,
-	origin: 'left',
+	origin: 'bottom',
 	distance: '100px',
 })
 sr.reveal('#footer', {
